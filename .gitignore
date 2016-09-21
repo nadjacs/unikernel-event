@@ -1,0 +1,8 @@
+boxes/
+*.dmg
+*.msi
+*.deb
+*.rpm
+*.exe
+*.box
+*.iso
